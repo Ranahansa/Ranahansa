@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pathum Ranahansa</h1>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <h3 align="center">A passionate Mobile & Web developer from Sri Lanka !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranahansa&label=Profile%20views&color=0e75b6&style=flat" alt="ranahansa" /> </p>
