@@ -1,4 +1,9 @@
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
+<div style="text-align:center;">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="About Me">
+  </picture>
+</div>
+
 <h1 align="center">Hi 👋, I'm Pathum Ranahansa</h1>
 <!--- snake -->
 <div align="center">
