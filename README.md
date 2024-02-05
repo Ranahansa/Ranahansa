@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [next_blog-application](https://github.com/Ranahansa/next_blog-application)
 
-- 🌱 I’m currently learning **Next Js, React Js, Redux**
+- 🌱 I’m currently learning **Next Js, Spring Boot, React Native**
 
 - 📝 I regularly write articles on [https://thesevendigitaldiary.blogspot.com/](https://thesevendigitaldiary.blogspot.com/)
 
