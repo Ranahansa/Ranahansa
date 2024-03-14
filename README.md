@@ -8,8 +8,11 @@
 <h1 align="center">Hi 👋, I'm Pathum Ranahansa</h1>
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  ## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 </div>
 <h3 align="center">A passionate Mobile & Web developer from Sri Lanka !</h3>
 
