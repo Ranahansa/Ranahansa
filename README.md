@@ -1,48 +1,62 @@
- <div align="center">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="About Me">
-  </picture>
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="About Me" />
 </div>
-
 
 <h1 align="center">Hi 👋, I'm Pathum Ranahansa</h1>
-<!--- snake -->
-<div align="center">
-  ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<h3 align="center">Mobile & Web Developer from Sri Lanka</h3>
+
+<p align="center">
+  <a href="mailto:pathumranahansa7777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/pathum-ranahansa-6a8966253" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/22346620" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://thesevendigitaldiary.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
 </p>
-</div>
-<h3 align="center">A passionate Mobile & Web developer from Sri Lanka !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranahansa&label=Profile%20views&color=0e75b6&style=flat" alt="ranahansa" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ranahansa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranahansa" alt="ranahansa" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranahansa" alt="GitHub Trophies" /></a>
+</p>
+
+## About Me
 
 - 🔭 I’m currently working on [next_blog-application](https://github.com/Ranahansa/next_blog-application)
+- 🌱 I’m currently learning **Next.js, Spring Boot, and React Native**
+- 📝 I regularly write articles on [These Seven Digital Diary](https://thesevendigitaldiary.blogspot.com/)
+- 💬 Ask me about **React.js, Next.js, and React Native**
+- 📫 Reach me at **pathumranahansa7777@gmail.com**
 
-- 🌱 I’m currently learning **Next Js, Spring Boot, React Native**
+## Tech Stack
 
-- 📝 I regularly write articles on [https://thesevendigitaldiary.blogspot.com/](https://thesevendigitaldiary.blogspot.com/)
-
-- 💬 Ask me about **React Js, Next Js, React Native**
-
-- 📫 How to reach me **pathumranahansa7777@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/pathum-ranahansa-6a8966253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathum-ranahansa-6a8966253" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:22346620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22346620" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,babel,bootstrap,c,cs,cloudflare,css,discord,dotnet,eclipse,express,figma,firebase,git,github,gmail,html,idea,java,js,jquery,linkedin,materialui,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,redux,sass,stackoverflow,tailwind,vercel,visualstudio,vite,xd,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,bootstrap,materialui,mongodb,mysql,firebase,git,github,figma,postman,linux,idea,vscode" alt="Tech Stack" />
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranahansa&show_icons=true&locale=en&layout=compact" alt="ranahansa" /></p>
+## Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranahansa&" alt="ranahansa" /></p>
+- [next_blog-application](https://github.com/Ranahansa/next_blog-application) — Modern blog app built with Next.js
+- More projects and experiments are coming soon 🚀
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranahansa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranahansa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranahansa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?raw=true" />
+    <img alt="Snake animation" src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  </picture>
+</div>
