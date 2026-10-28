@@ -17,11 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranahansa" alt="GitHub Trophies" /></a>
-</p>
-
-<p align="left">
-  <a href="mailto:pathumranahansa7777@gmail.com"><img src="https://img.shields.io/badge/Open%20for%20Work-Available%20Now-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open for work" /></a>
+  <a href="https://github.com/Ranahansa"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </p>
 
 <h2 align="left">About Me</h2>
