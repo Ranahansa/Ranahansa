@@ -49,7 +49,7 @@
     <img src="https://github-stats-extended.vercel.app/api?username=Ranahansa&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/Ranahansa">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ranahansa&layout=compact&theme=dark&hide_border=true&langs_count=20" alt="Top Languages" height="180" />
+    <img src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/top-langs/?username=Ranahansa&layout=donut&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" alt="Most Used Languages" height="180" />
   </a>
 </p>
 
