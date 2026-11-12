@@ -20,6 +20,10 @@
   <a href="https://github.com/Ranahansa"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ranahansa" style="text-decoration:none; color:#58a6ff; font-weight:600;">github.com/Ranahansa</a>
+</p>
+
 <h2 align="left">About Me</h2>
 
 - 🔭 I’m currently working on [next_blog-application](https://github.com/Ranahansa/next_blog-application)
