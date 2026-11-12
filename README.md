@@ -45,12 +45,16 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranahansa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranahansa&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" alt="Top Languages" height="180" />
+  <a href="https://github.com/Ranahansa">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ranahansa&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/Ranahansa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranahansa&layout=compact&theme=dark&hide_border=true&langs_count=20" alt="Top Languages" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranahansa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranahansa&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- snake -->
