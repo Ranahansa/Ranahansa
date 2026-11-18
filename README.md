@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,js,ts,react,nextjs,nodejs,express,java,spring,python,cs,html,css,mongodb,mysql,firebase,git,github,figma,postman,linux,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=go,rust,js,ts,react,nextjs,nodejs,express,java,spring,python,cs,html,css,mongodb,mysql,firebase,git,github,figma,postman,linux,vscode,docker,kubernetes,postgres,aws,arduino,raspberrypi,androidstudio" alt="Tech Stack" />
   </a>
 </p>
 
