@@ -142,7 +142,7 @@ More projects and experiments are coming soon 🚀
 
 <br/>
 
-<img src="./languages.svg" alt="Most used languages with percentages" width="700"/>
+<img src="https://github-stats-extended-frontend-tawny-gamma.vercel.app/api/top-langs/?username=Ranahansa&layout=donut&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800" alt="Most Used Languages" width="500" height="300" />
 
 <br/>
 
