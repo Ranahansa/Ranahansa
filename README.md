@@ -77,7 +77,7 @@ I'm **Pathum Ranahansa**, an **AI engineer** and full-stack web & mobile develop
 
 </div>
 
-> 📍 **Office:** 295/7A, Pitipana South, Koswatta Rd, Kiriwaththuduwa, Homagama, Sri Lanka
+> 📍 **Location:** Homagama, Sri Lanka
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
@@ -135,11 +135,16 @@ More projects and experiments are coming soon 🚀
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ranahansa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranahansa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranahansa&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
+
+<br/>
+
+**Most Used Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,cs,java,php&theme=dark" alt="Most used languages"/>
 
 <br/>
 
