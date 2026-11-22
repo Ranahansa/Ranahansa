@@ -142,9 +142,7 @@ More projects and experiments are coming soon 🚀
 
 <br/>
 
-**Most Used Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,cs,java,php&theme=dark" alt="Most used languages"/>
+<img src="./languages.svg" alt="Most used languages with percentages" width="700"/>
 
 <br/>
 
