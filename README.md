@@ -1,14 +1,15 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=230&section=header&text=Pathum%20Ranahansa&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Co-Founder%20%E2%80%A2%20E%20Scope%20International%20(Pvt)%20Ltd&descSize=20&descAlignY=58" alt="Pathum Ranahansa - Co-Founder, E Scope International" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=230&section=header&text=Pathum%20Ranahansa&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Co-Founder%2C%20E%20Scope%20International%20(Pvt)%20Ltd&descSize=20&descAlignY=58" alt="Pathum Ranahansa - AI Engineer, Co-Founder of E Scope International" width="100%"/>
 
 <a href="https://github.com/Ranahansa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Co-Founder+%40+E+Scope+International+(Pvt)+Ltd;Mobile+%26+Web+Developer+from+Sri+Lanka;Building+Business+Software+%26+AI-Driven+Platforms;Smart+Agriculture+Solutions+for+the+Real+World;React+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+Go+%E2%80%A2+Rust" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Engineer+%26+Co-Founder+%40+E+Scope+International;Building+AI+Agents,+LLM+Apps+%26+Intelligent+Systems;Web+%26+Mobile+Developer+from+Sri+Lanka;Business+Software+%26+AI-Driven+Platforms;Smart+Agriculture+Solutions+for+the+Real+World;Python+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+Go+%E2%80%A2+Rust" alt="Typing animation" />
 </a>
 
 <br/>
 
+<img src="https://img.shields.io/badge/AI-Engineer-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer"/>
 <img src="https://img.shields.io/badge/Co--Founder-E%20Scope%20International-1d4ed8?style=for-the-badge&logo=rocket&logoColor=white" alt="Co-Founder"/>
 <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Sri Lanka"/>
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration"/>
@@ -27,8 +28,9 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding.gif" alt="coding"/>
 
-I'm **Pathum Ranahansa**, a mobile & web developer from **Sri Lanka** and **Co-Founder of E Scope International (Pvt) Ltd**, a software company building products that help businesses run smarter.
+I'm **Pathum Ranahansa**, an **AI engineer** and full-stack web & mobile developer from **Sri Lanka**, and **Co-Founder of E Scope International (Pvt) Ltd**, a software company building AI-driven products that help businesses run smarter.
 
+- 🤖 **AI Engineer**: designing and building AI-driven platforms, intelligent automation and LLM-powered applications
 - 🏢 Co-Founder at **[E Scope International (Pvt) Ltd](https://escopeinternational.com)**
 - 🔭 Currently working on **`next_blog-application`** and **`e-scope_web`**
 - 🌱 Currently learning **Next.js, Spring Boot, React Native, Go and Rust**
@@ -54,7 +56,7 @@ I'm **Pathum Ranahansa**, a mobile & web developer from **Sri Lanka** and **Co-F
 | 🚀 What we build | 📌 Details |
 | :-- | :-- |
 | 💼 **Business Management Software** | POS systems (desktop, web and mobile), inventory, billing and reporting |
-| 🤖 **AI-Driven Platforms** | Intelligent tools that automate decisions and customer experiences |
+| 🤖 **AI-Driven Platforms** | AI engineering: intelligent tools that automate decisions and customer experiences |
 | 🌾 **Smart Agriculture Solutions** | Technology that helps farmers monitor, manage and grow better |
 | 🌐 **Web & Mobile Development** | Business websites, e-commerce, booking platforms and custom apps |
 
@@ -85,6 +87,10 @@ I'm **Pathum Ranahansa**, a mobile & web developer from **Sri Lanka** and **Co-F
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=dark" alt="Frontend"/>
+
+**AI & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,opencv,flask&theme=dark" alt="AI and machine learning"/>
 
 **Mobile**
 
